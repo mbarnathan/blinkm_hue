@@ -1,0 +1,2 @@
+*.ls linguist-detectable=false
+lightscripts/ linguist-detectable=false
